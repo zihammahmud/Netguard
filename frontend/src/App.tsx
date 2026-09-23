@@ -47,7 +47,7 @@ export default function App() {
       fetchData();
     } catch (err) {
       alert('Scan error or unauthorized target!');
-    } font-finally {
+    } finally {
       setIsScanning(false);
     }
   };
