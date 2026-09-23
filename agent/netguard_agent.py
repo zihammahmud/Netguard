@@ -6,7 +6,7 @@ import time
 import uuid
 
 # Replace with your deployed Render URL later (e.g. https://your-backend.onrender.com/api/v1/telemetry)
-BACKEND_URL = "http://127.0.0.1:8000/api/v1/telemetry"
+BACKEND_URL = "https://netguard-backend-1oze.onrender.com/api/v1/telemetry"
 REPORT_INTERVAL = 10
 
 def get_mac_address() -> str:
