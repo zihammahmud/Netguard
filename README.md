@@ -754,7 +754,7 @@ The current Java/Swing implementation serves as the foundation for the project's
 
 Computer Science & Engineering
 
-Green University of Bangladesh
+
 
 ---
 
